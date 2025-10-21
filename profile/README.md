@@ -1,11 +1,18 @@
 # 🎯 Dart Learning Hub
 
-[🇧🇷 Versão em Português](#português) | [🇺🇸 English Version](#english)
+<div align="center">
+
+**Complete Dart/Flutter/Backend Learning Ecosystem**
+
+[![Português](https://img.shields.io/badge/lang-português-green.svg)](#-português) [![English](https://img.shields.io/badge/lang-english-blue.svg)](#-english)
+
+</div>
 
 ---
 
-<a name="português"></a>
-## 🇧🇷 Português
+<details open>
+<summary><h2>🇧🇷 Português</h2></summary>
+
 
 > **Ecossistema completo de aprendizado Dart/Flutter/Backend**  
 > Do zero ao avançado, com foco em projetos práticos e preparação profissional.
@@ -89,10 +96,13 @@ Se este hub está te ajudando:
 - 🔄 Compartilhe com amigos
 - 🤝 Contribua com melhorias
 
+</details>
+
 ---
 
-<a name="english"></a>
-## 🇺🇸 English
+<details>
+<summary><h2>🇺🇸 English</h2></summary>
+
 
 > **Complete Dart/Flutter/Backend Learning Ecosystem**  
 > From zero to advanced, focused on practical projects and professional preparation.
@@ -175,6 +185,8 @@ If this hub is helping you:
 - ⭐ Star the repositories
 - 🔄 Share with friends
 - 🤝 Contribute improvements
+
+</details>
 
 ---
 
